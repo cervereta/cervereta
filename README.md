@@ -9,7 +9,8 @@
 ___
 
 ## Bio:
-    Soy Desarrollador junior y estoy formandome en las siguientes especialidades:
+
+### Soy Desarrollador junior y estoy formandome en las siguientes especialidades:
 
 <img src="pngwing.com49.png" width="300" height="100"> HTML,CSS y JavaScript <br>
 <img src="pngwing.com48.png" width="100" height="100"> Android Studio<br>
