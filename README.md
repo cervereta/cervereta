@@ -12,11 +12,18 @@ ___
 
 ### Soy Desarrollador junior y estoy formandome en las siguientes especialidades:
 
-<img src="pngwing.com49.png" width="300" height="100"> **HTML,CSS y JavaScript** <br>
-<img src="pngwing.com48.png" width="100" height="100"> **Android Studio**<br>
-<img src="pngwing.com41.png" width="100" height="100"> **Git** <br>
-<img src="pngwing.com42.png" width="100" height="100"> **GitHub** <br>
-<img src="pngwing.com37.png" width="75" height="75"> **Kotlin**
+<br>
+
+## HTML,CSS y JavaScript
+<img src="pngwing.com49.png" width="300" height="100">  <br>
+## Android Studio
+<img src="pngwing.com48.png" width="100" height="100"> <br>
+## Git
+<img src="pngwing.com41.png" width="100" height="100">  <br>
+## GitHub
+<img src="pngwing.com42.png" width="100" height="100">  <br>
+## Kotlin
+<img src="pngwing.com37.png" width="75" height="75"> 
 
 
 
