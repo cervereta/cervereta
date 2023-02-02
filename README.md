@@ -16,14 +16,12 @@ ___
 
 ## HTML,CSS y JavaScript
 <img src="pngwing.com49.png" width="300" height="100">  <br>
-## Android Studio
-<img src="pngwing.com48.png" width="100" height="100"> <br>
+## Android Studio + Kotlin
+<img src="pngwing.com48.png" width="100" height="100">  <img src="pngwing.com37.png" width="75" height="75"><br>
 ## Git
 <img src="pngwing.com41.png" width="100" height="100">  <br>
 ## GitHub
-<img src="pngwing.com42.png" width="100" height="100">  <br>
-## Kotlin
-<img src="pngwing.com37.png" width="75" height="75"> 
+<img src="pngwing.com42.png" width="100" height="100">  
 
 
 
