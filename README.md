@@ -3,7 +3,7 @@
 </div>
 
 
-  <img src="nuevologo2.png" width="200" height="200" style="display:block; margin: 0 auto;">
+![mi logo](https://telegra.ph/file/de83d951b5c4cbe37ba40.png)  
 
   ## [Mi Grupo en Telegram ](https://t.me/CreaGramGrupo/1)
 ___
