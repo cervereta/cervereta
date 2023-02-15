@@ -20,6 +20,18 @@ ___
 <img src="pngwing.com48.png" width="100" height="100">  <img src="pngwing.com37.png" width="75" height="75"><br>
 ## Git + GitHub
 <img src="pngwing.com41.png" width="100" height="100">  <img src="pngwing.com42.png" width="100" height="100">
+## MySQL
+<img src="https://telegra.ph/file/404cdc7b4a5956dff3234.png" width="100" height="100"><img src="pngwing.com51.png" width="150" height="150">
+
+
+
+
+
+
+
+
+
+
 
 
 
