@@ -10,7 +10,7 @@ ___
 
 ## Bio:
 
-### Soy Desarrollador junior y estoy formandome en las siguientes especialidades:
+### Soy Desarrollador Junior en estos lenguajes:
 
 <br>
 
@@ -20,8 +20,10 @@ ___
 <img src="pngwing.com48.png" width="100" height="100">  <img src="pngwing.com37.png" width="75" height="75"><br>
 ## Git + GitHub
 <img src="pngwing.com41.png" width="100" height="100">  <img src="pngwing.com42.png" width="100" height="100">
-## MySQL
-<img src="pngwing.com52.png" width="100" height="100"><img src="pngwing.com51.png" width="150" height="150">
+## SQL + PHP
+<img src="SQL.png" width="100" height="100"><img src="PHP.png" width="150" height="100">
+## Experto en IA: LLMs generativas,Workflows,MCPs y Automatizaciones
+<img src="ia2.png" width="100" height="100">
 
 
 
